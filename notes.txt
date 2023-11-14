@@ -1,0 +1,5 @@
+1. assuming na may date na 10-23-2023 name na allan at time na 8am sa database,pag nagclick ako ng allan na radio button ung 8am ni allan disabled na kase occupied na sa database
+pero pag nagclick ako ibang name like rex yung radio button na 8am magging enable kase yung nasa database lng na data is ung allan at 8am lng pero,
+pag nagsubmit nmn ako ng same  date at allan ulit tas 9am maddisable na yung time na 8am at 9am ni allan ganun ser yung logic,pero nakapende paden sa 
+date pag nag select ako ng date na 10-24-2023 dapat lahat enable pa pate ung time na radio button kase ung nasa database lng na nasave is ung 10-23-2023 lng, 
+kumbaga mag madidisable lng tlga ung time ,at lahat ng tao may kanya kanyang oras ganun lng ser sana mgawa jahahh
